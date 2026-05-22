@@ -1,0 +1,5 @@
+La ruta POST /reporte recibe información enviada por el usuario.
+
+Sirve para registrar mensajes o reportes en el servidor.
+
+Puede usarse en aplicaciones comunitarias para reportar problemas o alertas.

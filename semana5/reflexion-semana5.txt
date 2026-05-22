@@ -1,0 +1,7 @@
+Las APIs permiten la comunicación entre aplicaciones.
+Ayudan a enviar y recibir información de forma organizada.
+Se usan en aplicaciones móviles y web.
+Facilitan los reportes ciudadanos.
+Mejoran la comunicación en comunidades.
+Permiten automatizar procesos.
+Hacen más fácil compartir información.

@@ -1,0 +1,3 @@
+En / muestra “Servidor activo”.
+En /saludo muestra “Hola comunidad”.
+En /mensaje/juan muestra “Hola juan”.
